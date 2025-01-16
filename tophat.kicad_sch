@@ -4487,6 +4487,17 @@
 		)
 		(uuid "54be04e4-fffa-4f7f-8a5f-d0de81314e8f")
 	)
+	(label "A5"
+		(at 21.59 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "65d64042-0c9a-432c-a214-954063a92713")
+	)
 	(label "7"
 		(at 74.93 59.69 180)
 		(fields_autoplaced yes)
@@ -4586,6 +4597,17 @@
 		)
 		(uuid "bbf52cf8-6d97-4499-a9ee-3657cebcdabf")
 	)
+	(label "A4"
+		(at 21.59 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c071a4fe-e93b-4b2c-b410-caeae6d1a111")
+	)
 	(label "Vin"
 		(at 26.67 26.67 270)
 		(fields_autoplaced yes)
@@ -4651,28 +4673,6 @@
 			(justify left bottom)
 		)
 		(uuid "de819ae4-b245-474b-a426-865ba877b8a2")
-	)
-	(label "SDA{slash}A4"
-		(at 21.59 69.85 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e7ce99b8-ca22-4c56-9e55-39d32c709f3c")
-	)
-	(label "SCL{slash}A5"
-		(at 21.59 72.39 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ea5aa60b-a25e-41a1-9e06-c7b6f957567f")
 	)
 	(global_label "TX_Enable_5v"
 		(shape input)
