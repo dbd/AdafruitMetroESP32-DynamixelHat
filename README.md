@@ -1,8 +1,8 @@
 # AdafruitMetroESP32-DynamixelHat
 
-A HAT designed for the [AdaFruit Metro ESP32-S3](https://learn.adafruit.com/adafruit-metro-esp32-s3) to communicate with Dynamixel servos
+A HAT designed for the [AdaFruit Metro ESP32-S3](https://learn.adafruit.com/adafruit-metro-esp32-s3) to communicate with Dynamixel servos using this [library](https://github.com/dbd/CircuitPythonDynamixel)
 
-![image](https://github.com/user-attachments/assets/1e14d920-3469-4be4-8a81-6ca9415b7f7c)
+![image](https://github.com/user-attachments/assets/8e19ac66-d04d-4793-ae45-717e3823184a)
 
 # Bill of Materails
 | Item | Link | Quantity | Unit Cost | Item Cost |
