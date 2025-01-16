@@ -19,7 +19,11 @@ A HAT designed for the [AdaFruit Metro ESP32-S3](https://learn.adafruit.com/adaf
 | PCB Fab | | 5 | 2 | ~$20 |
 | | | | Total Cost | $32.21|
 
+# Assembly
+Hand soldering this is not for the faint of heart. If you don't own a hotplate and solder paste I would recommend having your PCB fab doing all the SMD component assembly and then purchasing the 100 µF capacitor and headers to solder yourself. 
+Otherwise all components are labeled and assuming your PCB has silk screen printing, it should just be matching footprints. 
+A "cheap" hotplate can be found for ~$55 on Amazon and should be sufficient with some cheap solder paste in a syringe to go along.
 
-
+If the JST connectors don't match the footprint, try inserting them the otherway. Incorrectly soldering them shouldn't cause harm since the 12v line is in the middele regardless but I don't recommend finding out.
 
 
