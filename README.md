@@ -4,7 +4,7 @@ A HAT designed for the [AdaFruit Metro ESP32-S3](https://learn.adafruit.com/adaf
 
 ![image](https://github.com/user-attachments/assets/8e19ac66-d04d-4793-ae45-717e3823184a)
 
-# Bill of Materails
+# Bill of Materials
 | Item | Link | Quantity | Unit Cost | Item Cost |
 | ---- | ---- | -------- | --------- | --------- |
 | TXB0104PWR Level Shifter | [Link](https://www.digikey.com/short/qm0td78w) | 1 | $0.87 | $0.87 | 
